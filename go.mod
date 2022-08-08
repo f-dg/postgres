@@ -1,4 +1,4 @@
-module f-dg/postgres
+module github.com/f-dg/postgres
 
 go 1.14
 
